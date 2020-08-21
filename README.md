@@ -2,6 +2,11 @@
 
 Predicting real estate value in New York
 ####
-  End to End data science Project
+
+# Overview
+
+End to End data science Project
+
+The New York Real Estate price prediction is the recent data analysis project that I have built and really proud of.
   
-  The New York Real Estate price prediction is the recent data analysis project that I have built and really proud of. The project is following the step of end-to-end data science project with some modification.
+The project is following the step of end-to-end data science project with some modification.
