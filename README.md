@@ -1,5 +1,6 @@
 # NYC-Real-Estate-price-prediction
 
+Predicting real estate value in New York
 ####
   End to End data science Project
   
