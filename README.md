@@ -19,7 +19,7 @@ In this project, the goal is to implement a model for predicting the price of re
      - Many sales occur with a nonsensically small dollar amount: $0 most commonly. These sales are actually transfers of deeds between parties: for example, parents transferring ownership to their home to a child after moving out for retirement.
      - This dataset uses the financial definition of a building/building unit, for tax purposes. In case a single entity owns the building in question, a sale covers the value of the entire building. In case a building is owned piecemeal by its residents (a condominium), a sale refers to a single apartment (or group of apartments) owned by some individual.
      
-![Alt text](NYC-Real-Estate-price-prediction/Distribution of Price In US Dollars.png 'Distribution Of Real Estae sale values')
+![Alt text](https://github.com/paripon123/NYC-Real-Estate-price-prediction/blob/master/Distribution%20of%20Price%20In%20US%20Dollars.png 'Distribution Of Real Estae sale values')
      
 #### Conclusion
 
