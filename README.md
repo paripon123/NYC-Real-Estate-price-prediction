@@ -13,6 +13,7 @@ In this project, the goal is to implement a model for predicting the price of re
      - BUILDING CLASS AT PRESENT and BUILDING CLASS AT TIME OF SALE: The type of building at various points in time. See the glossary linked to below.
         
      :For further reference on individual fields see the Glossary of Terms. For the building classification codes see the Building Classifications Glossary.
+     
      :Note that because this is a financial transaction dataset, there are some points that need to be kept in mind:
 
      - Many sales occur with a nonsensically small dollar amount: $0 most commonly. These sales are actually transfers of deeds between parties: for example, parents transferring ownership to their home to a child after moving out for retirement.
