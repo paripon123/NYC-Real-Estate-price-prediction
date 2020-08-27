@@ -23,3 +23,8 @@ In this project, the goal is to implement a model for predicting the price of re
      
 #### Conclusion
 
+Three machine learning regression methods (Linear Regression, Decision Tree Regressor and Random Forest Regressor) were trained. As a result, we have achieved the Random Forest Regression with Cross Validation following by Decision Tree Regressor and Linear Regression.
+
+The best prediction performance from the test set was achieved with Random Forest Regressor, with selected features and the result is the in the following evaluation matric:
+  - Root Mean Square Error (RMSE) : 428808.53
+  - R- squared : 0.67
